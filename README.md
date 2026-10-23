@@ -1,16 +1,24 @@
-## Hi there 👋
+# Bingsheng Zhang (张秉晟)
 
-<!--
-**BingyZhang/BingyZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenured Associate Professor / Ph.D. Supervisor  
+College of Computer Science and Technology, Zhejiang University
 
-Here are some ideas to get you started:
+浙江大学计算机科学与技术学院 · 长聘副教授 · 博士生导师
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Research
+Cryptography · Secure Multiparty Computation · Zero-Knowledge Proofs / Verifiable Computation · Blockchain · Data Security · Privacy-preserving Computation
+
+密码学 · 安全多方计算 · 零知识证明 / 可验证计算 · 区块链 · 数据安全 · 隐私计算
+
+### Links
+- Homepage: [person.zju.edu.cn/bingsheng](https://person.zju.edu.cn/bingsheng)
+- Email: `bingsheng@zju.edu.cn`
+- GitHub: [BingyZhang](https://github.com/BingyZhang)
+
+### Selected projects on GitHub
+- [lean-tex-sync](https://github.com/BingyZhang/lean-tex-sync) — VS Code extension: jump between Lean, LaTeX, and PDF via `@tex` / `@pdf` comments
+- [EC-ElGamal](https://github.com/BingyZhang/EC-ElGamal) — EC-ElGamal based on MIRACL
+
+---
+
+Open to collaboration on MPC, ZKP, and privacy-preserving systems.
